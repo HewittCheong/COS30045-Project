@@ -1,0 +1,8 @@
+https://d3-graph-gallery.com/barplot.html
+https://d3-graph-gallery.com/choropleth.html
+https://d3-graph-gallery.com/pie.html
+https://d3-graph-gallery.com/density.html
+https://d3-graph-gallery.com/connectedscatter.html
+https://d3-graph-gallery.com/line.html
+https://d3-graph-gallery.com/cartogram.html
+https://d3-graph-gallery.com/backgroundmap.html

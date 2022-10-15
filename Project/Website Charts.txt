@@ -1,0 +1,23 @@
+Bar Chart India and United States current year 2022(2021)
+x-axis = country
+y-axis = solar energy consumption
+colour = 2
+
+Button? Bar Chart each country (2001 - 2022?)
+x-axis = year
+y-axis = solar energy consumption/production
+colour = 2
+
+Line Chart India and United States
+x-axis = year
+y-axis = solar energy production
+colour = 2 countries
+
+Line Chart India and United States
+x-axis = year
+y-axis = solar energy consumption
+colour = 2 countries
+
+Map Chart (Chloropleth) 
+- 3 years /4 years (2018/2001, 2005)
+- production & consumption

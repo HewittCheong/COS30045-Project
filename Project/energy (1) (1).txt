@@ -1,0 +1,54 @@
+Solar Energy
+https://data.world/makeovermonday/2021w37
+https://data.world/us-doe-gov/0b7226e3-7f68-4e6d-91cb-7297d182d887
+https://data.world/doe/energy-generation-by-state
+https://data.world/us-doe-gov/6a295b3b-31ff-440f-acef-f4f91760ff27
+https://data.world/us-doe-gov/09303b32-8eaf-40e8-854e-cfca7db8c598/workspace/file?filename=total-tilt-lat-flattened-and-ranked-per-country-2.xls
+https://data.world/doe/solar-hourly-solar-dni-ghi/workspace/file?filename=chinatmy1%2FChina.xls
+https://data.world/parksham/state-wise-solar-power-capacity-in-india
+https://data.world/us-doe-gov/050a153e-b1cb-4461-90d8-bb7142a575a8
+https://data.world/us-doe-gov/549a0798-350a-497d-bea7-95e0219ffd09
+
+Geothermal
+https://data.world/us-doe-gov/5bb2f09c-acc9-495c-bde6-ba1885113119/workspace/file?filename=Geothermal+Data+2012%2FGeothermal+Wells%2Farc_map%2Fgeothermal_wgs84.dbf
+https://data.world/us-doe-gov/a8406032-903b-4ff3-a99a-7bcd06a4b5f0
+https://data.world/us-doe-gov/92027cd7-bb93-4952-9648-787d104bb80a
+https://data.world/nz-waikato/0c621a88-1279-4149-a373-a45181d90855
+https://energydata.info/dataset/selected-countries-geothermal-investments-2016
+
+Wave Energy
+https://data.world/us-doe-gov/6e4eb2df-ee95-42cb-8450-cd7bec59e29a
+https://data.world/us-doe-gov/4381e0db-2469-4c93-8600-750bc9ce875b/workspace/file?filename=wave_energy_period-1%2Fwave_energy_period.dbf
+https://data.gov.ie/dataset/galway-bay-14-scale-wave-energy-test-site?package_type=dataset
+https://data.gov.ie/dataset/belmullet-full-scale-wave-energy-test-site?package_type=dataset
+
+Wind
+https://data.world/data-ny-gov/jmxa-iz8m/workspace/file?filename=wind-energy-projects-2004-2015-1.csv
+https://data.world/makeovermonday/2019w8/workspace/file?filename=US+State+Wind+Energy+Facts+2018.xlsx
+https://data.world/us-doe-gov/ecb2e50d-b35c-4ba2-960e-34f7e1729629/workspace/file?filename=offshore_wind.dbf
+https://data.world/makeovermonday/2019w8
+https://data.world/us-doe-gov/4ba4f7bc-2253-405c-8eab-ccf9599ff7aa/workspace/file?filename=2018-atb-data-interim-geo-xlsm-1.xlshttps://data.world/hazardhub1/wind-risks
+https://data.world/datagov-uk/3219c645-9664-4e86-b73b-e36190626ef8
+https://energydata.info/dataset/vietnam-wind-measurements-giz
+
+Hydroelectricity
+https://data.world/brianray/gapminder-hydroelectric-electr/workspace/file?filename=Hydroelectric+electricity+production+per+person.csv
+https://data.world/datagov-uk/9fd4b30e-e72d-4484-aa7e-df72e82508a3
+
+Biomass
+https://data.world/dave/philipines-biomass-data/workspace/file?filename=phl_biomass.csv
+https://data.world/us-doe-gov/a01eefdc-e287-4ecf-bda5-fbd254cc5cca/workspace/file?filename=Biomass.dbf
+https://energydata.info/dataset/pakistan-biomass-mapping
+
+Renewable Energy in General
+https://data.world/doe/united-states-renewable-energy
+https://data.world/harimjung/climate-change-data-visualizationcdp/workspace/file?filename=2020_-_Cities_Renewable_Energy_Targets+%281%29.csv
+https://data.world/doe/united-states-renewable-energy
+
+hydropower 
+https://energydata.info/dataset/west-africa-and-india-hydropower-dams-2018
+https://energydata.info/dataset/india-hydropower-database
+
+website that can find energy
+https://data.gov.ie/dataset?tags=wave+energy
+https://data.worldbank.org/indicator/EG.ELC.HYRO.ZS
