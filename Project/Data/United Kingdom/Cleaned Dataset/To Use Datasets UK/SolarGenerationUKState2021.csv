@@ -1,0 +1,375 @@
+"Local Authority Name","Region","Photovoltaics"
+"Aberdeen City","Scotland",7936.551
+"Aberdeenshire","Scotland",41902.454
+"Adur","South East",2999.108
+"Allerdale","North West",35559.362
+"Amber Valley","East Midlands",7652.274
+"Angus","Scotland",35776.314
+"Argyll and Bute","Scotland",6149.424
+"Arun","South East",60499.26
+"Ashfield","East Midlands",11689.844
+"Ashford","South East",35858.738
+"Babergh","East of England",11988.918
+"Barking and Dagenham","London",5855.002
+"Barnet","London",5678.027
+"Barnsley","Yorkshire and The Humber",18559.572
+"Barrow-in-Furness","North West",12149.361
+"Basildon","East of England",11735.361
+"Basingstoke and Deane","South East",31724.323
+"Bassetlaw","East Midlands",119503.675
+"Bath and North East Somerset","South West",16928.096
+"Bedford","East of England",109685.628
+"Bexley","London",7259.054
+"Birmingham","West Midlands",27652.945
+"Blaby","East Midlands",9789.831
+"Blackburn with Darwen","North West",7715.774
+"Blackpool","North West",3880.433
+"Blaenau Gwent","Wales",22086.822
+"Bolsover","East Midlands",17201.076
+"Bolton","North West",17323.428
+"Boston","East Midlands",35227.569
+"Bournemouth, Christchurch and Poole","South West",106123.246
+"Bracknell Forest","South East",5407.685
+"Bradford","Yorkshire and The Humber",17600.583
+"Braintree","East of England",31720.396
+"Breckland","East of England",71930.795
+"Brent","London",5151.243
+"Brentwood","East of England",3079.078
+"Bridgend","Wales",35745.889
+"Brighton and Hove","South East",11600.32
+"Bristol, city of","South West",27793.634
+"Broadland","East of England",38843.198
+"Bromley","London",6667.468
+"Bromsgrove","West Midlands",5334.963
+"Broxbourne","East of England",3338.997
+"Broxtowe","East Midlands",5691.55
+"Buckinghamshire","South East",120951.357
+"Burnley","North West",4436.969
+"Bury","North West",5452.513
+"Caerphilly","Wales",55864.639
+"Calderdale","Yorkshire and The Humber",8980.811
+"Cambridge","East of England",8776.139
+"Camden","London",3655.971
+"Cannock Chase","West Midlands",5513.247
+"Canterbury","South East",104782.894
+"Cardiff","Wales",22362.662
+"Carlisle","North West",21959.338
+"Carmarthenshire","Wales",105996.865
+"Castle Point","East of England",3082.107
+"Central Bedfordshire","East of England",80054.036
+"Ceredigion","Wales",31571.682
+"Charnwood","East Midlands",67223.968
+"Chelmsford","East of England",10782.606
+"Cheltenham","South West",5891.884
+"Cherwell","South East",98059.25
+"Cheshire East","North West",45866.956
+"Cheshire West and Chester","North West",36294.798
+"Chesterfield","East Midlands",29781.641
+"Chichester","South East",63316.024
+"Chorley","North West",8695.191
+"City of Edinburgh","Scotland",10909.752
+"City of London","London",615.134
+"Clackmannanshire","Scotland",6928.949
+"Colchester","East of England",83744.609
+"Conwy","Wales",22107.951
+"Copeland","North West",3567.354
+"Cornwall","South West",555705.431
+"Cotswold","South West",38177.399
+"County Durham","North East",47257.421
+"Coventry","West Midlands",10617.371
+"Craven","Yorkshire and The Humber",8892.356
+"Crawley","South East",5191.707
+"Croydon","London",9251.587
+"Dacorum","East of England",17734.13
+"Darlington","North East",15569.955
+"Dartford","South East",4392.804
+"Denbighshire","Wales",8953.305
+"Derby","East Midlands",13429.33
+"Derbyshire Dales","East Midlands",44680.44
+"Doncaster","Yorkshire and The Humber",37740.674
+"Dorset","South West",265609.501
+"Dover","South East",27883.959
+"Dudley","West Midlands",10376.561
+"Dumfries and Galloway","Scotland",13232.779
+"Dundee City","Scotland",4662.218
+"Ealing","London",8267.013
+"East Ayrshire","Scotland",5666.225
+"East Cambridgeshire","East of England",124510.86
+"East Devon","South West",99276.867
+"East Dunbartonshire","Scotland",2767.497
+"East Hampshire","South East",44009.843
+"East Hertfordshire","East of England",11418.534
+"East Lindsey","East Midlands",78334.968
+"East Lothian","Scotland",8235.124
+"East Renfrewshire","Scotland",2473.969
+"East Riding of Yorkshire","Yorkshire and The Humber",55868.117
+"East Staffordshire","West Midlands",47368.246
+"East Suffolk","East of England",119692.595
+"Eastbourne","South East",4828.993
+"Eastleigh","South East",21070.646
+"Eden","North West",15729.693
+"Elmbridge","South East",9073.297
+"Enfield","London",6566.434
+"Epping Forest","East of England",6818.572
+"Epsom and Ewell","South East",2125.52
+"Erewash","East Midlands",6308.478
+"Exeter","South West",11362.752
+"Falkirk","Scotland",5325.255
+"Fareham","South East",27180.414
+"Fenland","East of England",30564.474
+"Fife","Scotland",32171.736
+"Flintshire","Wales",85941.911
+"Folkestone and Hythe","South East",27522.043
+"Forest of Dean","South West",58660.461
+"Fylde","North West",31137.974
+"Gateshead","North East",8112.051
+"Gedling","East Midlands",11634.941
+"Glasgow City","Scotland",12937.922
+"Gloucester","South West",6204.129
+"Gosport","South East",3621.461
+"Gravesham","South East",5301.778
+"Great Yarmouth","East of England",19915.247
+"Greenwich","London",6427.658
+"Guildford","South East",7265.919
+"Gwynedd","Wales",35700.877
+"Hackney","London",4283.795
+"Halton","North West",5849.517
+"Hambleton","Yorkshire and The Humber",62654.764
+"Hammersmith and Fulham","London",1537.115
+"Harborough","East Midlands",15168.964
+"Haringey","London",3624.083
+"Harlow","East of England",3365.283
+"Harrogate","Yorkshire and The Humber",13912.763
+"Harrow","London",4151.311
+"Hart","South East",14518.575
+"Hartlepool","North East",19507.548
+"Hastings","South East",3926.445
+"Havant","South East",8352.574
+"Havering","London",9642.502
+"Herefordshire, county of","West Midlands",49325.406
+"Hertsmere","East of England",11912.572
+"High Peak","East Midlands",3899.88
+"Highland","Scotland",18485.051
+"Hillingdon","London",6677.623
+"Hinckley and Bosworth","East Midlands",41497.135
+"Horsham","South East",52196.404
+"Hounslow","London",8116.13
+"Huntingdonshire","East of England",81515.938
+"Hyndburn","North West",4388.143
+"Inverclyde","Scotland",2036.321
+"Ipswich","East of England",9419.389
+"Isle of Anglesey","Wales",34902.876
+"Isle of Wight","South East",83559.134
+"Isles of Scilly","South West",218.384
+"Islington","London",3672.829
+"Kensington and Chelsea","London",1076.346
+"King's Lynn and West Norfolk","East of England",86220.527
+"Kingston upon Hull, city of","Yorkshire and The Humber",24146.83
+"Kingston upon Thames","London",3261.687
+"Kirklees","Yorkshire and The Humber",20447.625
+"Knowsley","North West",9681.381
+"Lambeth","London",4086.036
+"Lancaster","North West",17638.695
+"Leeds","Yorkshire and The Humber",34525.654
+"Leicester","East Midlands",17048.445
+"Lewes","South East",13299.412
+"Lewisham","London",4703.807
+"Lichfield","West Midlands",9563.307
+"Lincoln","East Midlands",4952.923
+"Liverpool","North West",14361.167
+"Luton","East of England",5136.597
+"Maidstone","South East",20424.404
+"Maldon","East of England",10310.922
+"Malvern Hills","West Midlands",11542.647
+"Manchester","North West",20225.92
+"Mansfield","East Midlands",45309.982
+"Medway","South East",27228.208
+"Melton","East Midlands",15036.136
+"Mendip","South West",81783.818
+"Merthyr Tydfil","Wales",2731.432
+"Merton","London",5506.64
+"Mid Devon","South West",54286.059
+"Mid Suffolk","East of England",30126.64
+"Mid Sussex","South East",20080.435
+"Middlesbrough","North East",6050.676
+"Midlothian","Scotland",5599.857
+"Milton Keynes","South East",51674.835
+"Mole Valley","South East",5132.439
+"Monmouthshire","Wales",70250.576
+"Moray","Scotland",8665.56
+"Na h-Eileanan Siar","Scotland",1080.172
+"Neath Port Talbot","Wales",26846.254
+"New Forest","South East",37457.031
+"Newark and Sherwood","East Midlands",62101.808
+"Newcastle upon Tyne","North East",10248.7
+"Newcastle-under-Lyme","West Midlands",6594.216
+"Newham","London",4869.87
+"Newport","Wales",90614.588
+"North Ayrshire","Scotland",12290.649
+"North Devon","South West",66724.534
+"North East Derbyshire","East Midlands",33711.43
+"North East Lincolnshire","Yorkshire and The Humber",28485.705
+"North Hertfordshire","East of England",27180.537
+"North Kesteven","East Midlands",79593.435
+"North Lanarkshire","Scotland",10474.94
+"North Lincolnshire","Yorkshire and The Humber",63896.73
+"North Norfolk","East of England",165124.875
+"North Northamptonshire","East Midlands",120559.112
+"North Somerset","South West",75218.802
+"North Tyneside","North East",10472.56
+"North Warwickshire","West Midlands",24368.852
+"North West Leicestershire","East Midlands",51112.249
+"Northumberland","North East",26981.602
+"Norwich","East of England",7122.907
+"Nottingham","East Midlands",19943.289
+"Nuneaton and Bedworth","West Midlands",4578.297
+"Oadby and Wigston","East Midlands",2901.243
+"Oldham","North West",9076.772
+"Orkney Islands","Scotland",1248.108
+"Oxford","South East",8501.36
+"Pembrokeshire","Wales",182393.227
+"Pendle","North West",4248.25
+"Perth and Kinross","Scotland",18152.793
+"Peterborough","East of England",27624.51
+"Plymouth","South West",25867.369
+"Portsmouth","South East",10076.688
+"Powys","Wales",21156.105
+"Preston","North West",14185.982
+"Reading","South East",5863.882
+"Redbridge","London",3964.976
+"Redcar and Cleveland","North East",12087.169
+"Redditch","West Midlands",4047.761
+"Reigate and Banstead","South East",6412.739
+"Renfrewshire","Scotland",6918.194
+"Rhondda Cynon Taf","Wales",40941.968
+"Ribble Valley","North West",11516.622
+"Richmond upon Thames","London",3619.884
+"Richmondshire","Yorkshire and The Humber",15903.764
+"Rochdale","North West",11177.198
+"Rochford","East of England",13896.139
+"Rossendale","North West",4157.395
+"Rother","South East",10125.406
+"Rotherham","Yorkshire and The Humber",17815.368
+"Rugby","West Midlands",6891.104
+"Runnymede","South East",3112.086
+"Rushcliffe","East Midlands",53653.278
+"Rushmoor","South East",3426.007
+"Rutland","East Midlands",19244.503
+"Ryedale","Yorkshire and The Humber",15832.65
+"Salford","North West",10040.373
+"Sandwell","West Midlands",10189.564
+"Scarborough","Yorkshire and The Humber",6963.385
+"Scottish Borders","Scotland",15244.848
+"Sedgemoor","South West",126090.076
+"Sefton","North West",7724.461
+"Selby","Yorkshire and The Humber",22677.952
+"Sevenoaks","South East",6511.375
+"Sheffield","Yorkshire and The Humber",22563.298
+"Shetland Islands","Scotland",347.458
+"Shropshire","West Midlands",195356.951
+"Slough","South East",3481.105
+"Solihull","West Midlands",7385.878
+"Somerset West and Taunton","South West",79672.607
+"South Ayrshire","Scotland",4688.483
+"South Cambridgeshire","East of England",260302.512
+"South Derbyshire","East Midlands",27766.229
+"South Gloucestershire","South West",88667.855
+"South Hams","South West",126794.369
+"South Holland","East Midlands",30244.79
+"South Kesteven","East Midlands",75601.413
+"South Lakeland","North West",12522.662
+"South Lanarkshire","Scotland",14202.146
+"South Norfolk","East of England",63147.811
+"South Oxfordshire","South East",37879.434
+"South Ribble","North West",8359.613
+"South Somerset","South West",137186.437
+"South Staffordshire","West Midlands",16778.81
+"South Tyneside","North East",7820.01
+"Southampton","South East",10031.224
+"Southend-on-Sea","East of England",4871.159
+"Southwark","London",5677.551
+"Spelthorne","South East",3880.794
+"St Albans","East of England",4850.083
+"St. Helens","North West",8587.27
+"Stafford","West Midlands",10629.812
+"Staffordshire Moorlands","West Midlands",26375.363
+"Stevenage","East of England",3123.554
+"Stirling","Scotland",15016.052
+"Stockport","North West",14222.521
+"Stockton-on-Tees","North East",19577.182
+"Stoke-on-Trent","West Midlands",23677.919
+"Stratford-on-Avon","West Midlands",83883.636
+"Stroud","South West",49762.665
+"Sunderland","North East",24543.693
+"Surrey Heath","South East",3135.873
+"Sutton","London",5114.563
+"Swale","South East",62260.463
+"Swansea","Wales",41239.326
+"Swindon","South West",168779.794
+"Tameside","North West",15388.355
+"Tamworth","West Midlands",3781.719
+"Tandridge","South East",4868.905
+"Teignbridge","South West",33424.088
+"Telford and Wrekin","West Midlands",35894.018
+"Tendring","East of England",71442.192
+"Test Valley","South East",172072.212
+"Tewkesbury","South West",43087.22
+"Thanet","South East",44149.168
+"Three Rivers","East of England",2551.405
+"Thurrock","East of England",21437.102
+"Tonbridge and Malling","South East",15971.346
+"Torbay","South West",7130.665
+"Torfaen","Wales",15239.57
+"Torridge","South West",97313.697
+"Tower Hamlets","London",4449.032
+"Trafford","North West",8107.868
+"Tunbridge Wells","South East",38955.195
+"Uttlesford","East of England",44322.347
+"Vale of Glamorgan","Wales",75567.059
+"Vale of White Horse","South East",138160.354
+"Wakefield","Yorkshire and The Humber",23541.08
+"Walsall","West Midlands",7475.307
+"Waltham Forest","London",6590.624
+"Wandsworth","London",3892.853
+"Warrington","North West",16272.021
+"Warwick","West Midlands",20908.615
+"Watford","East of England",2075.007
+"Waverley","South East",9175.324
+"Wealden","South East",76512.377
+"Welwyn Hatfield","East of England",5061.987
+"West Berkshire","South East",32380.05
+"West Devon","South West",15699.796
+"West Dunbartonshire","Scotland",3454.751
+"West Lancashire","North West",12499.29
+"West Lindsey","East Midlands",57823.024
+"West Lothian","Scotland",9095.242
+"West Northamptonshire","East Midlands",127678.975
+"West Oxfordshire","South East",73685.547
+"West Suffolk","East of England",133287.409
+"Westminster","London",2595.174
+"Wigan","North West",18806.132
+"Wiltshire","South West",492739.88
+"Winchester","South East",87754.282
+"Windsor and Maidenhead","South East",8297.418
+"Wirral","North West",8720.611
+"Woking","South East",5736.322
+"Wokingham","South East",27113.488
+"Wolverhampton","West Midlands",14910.195
+"Worcester","West Midlands",6133.564
+"Worthing","South East",4017.075
+"Wrexham","Wales",35650.784
+"Wychavon","West Midlands",75587.859
+"Wyre","North West",16044.311
+"Wyre Forest","West Midlands",6245.916
+"York","Yorkshire and The Humber",10831.828
+"Antrim and Newtownabbey","Northern Ireland",30985.253
+"Ards and North Down","Northern Ireland",6020.721
+"Armagh, Banbridge and Craigavon","Northern Ireland",13226.831
+"Belfast","Northern Ireland",1026.901
+"Causeway Coast and Glens","Northern Ireland",44217.813
+"Derry City and Strabane","Northern Ireland",160.432
+"Fermanagh and Omagh","Northern Ireland",291.323
+"Lisburn and Castlereagh","Northern Ireland",70644.32
+"Mid and East Antrim","Northern Ireland",6689.988
+"Mid Ulster","Northern Ireland",5293.265
+"Newry, Mourne and Down","Northern Ireland",1254.651
